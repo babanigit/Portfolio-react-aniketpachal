@@ -1,0 +1,35 @@
+
+.maindiv {
+    display: flex;
+    justify-content: left;
+    padding-left: 20px;
+    position: fixed;
+
+}
+
+
+/* c1 */
+.maindiv2 p {
+    color: gray;
+    font-size: 10px;
+}
+
+/* c2 */
+button {
+    align-self: stretch;
+    font-size: 9px;
+    height: 40px;
+    width: 50px;
+    color: rgb(0, 0, 0);
+    background-color: rgb(148, 150, 150);
+    border-radius: 15px;
+    margin-top: 50%;
+    
+}
+
+.edit {
+    /* align-items: center; */
+
+    display: flex;
+    justify-content: center;
+}
